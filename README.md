@@ -10,7 +10,7 @@ even more text
 <src="https://github.com/drodbourne/dalerep/blob/main/Database%20diagram.drawio">
 </p>
 
-
+(Database diagram.drawio.png)
 
 <details>
 <summary>"Click to expand"</summary>
