@@ -6,6 +6,10 @@ even more text
 <p align="center">
 <img ="center" width="100" height="100" src="https://th.bing.com/th/id/R.4142ae1faf0ee1b6ca68e3ed9c629bec?rik=S4TGinb8opdZUA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fmanchester-city-logo-png-manchester-city-2272.png&ehk=IyFGHczsONQWiX0LVLKo9YD2sp6c0DikMd1LKtOMvG0%3d&risl=&pid=ImgRaw&r=0">
 </p>  
+src="https://github.com/drodbourne/dalerep/blob/main/Database%20diagram.xml">
+</p>
+
+
 
 <details>
 <summary>"Click to expand"</summary>
