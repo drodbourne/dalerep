@@ -7,7 +7,7 @@ even more text
 <img ="center" width="100" height="100" src="https://th.bing.com/th/id/R.4142ae1faf0ee1b6ca68e3ed9c629bec?rik=S4TGinb8opdZUA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fmanchester-city-logo-png-manchester-city-2272.png&ehk=IyFGHczsONQWiX0LVLKo9YD2sp6c0DikMd1LKtOMvG0%3d&risl=&pid=ImgRaw&r=0">
 </p>
 <p>
-<src="https://github.com/drodbourne/dalerep/blob/main/Database%20diagram.drawio.png">
+<src="https://raw.githubusercontent.com/drodbourne/dalerep/abdd36170493bf13e8193f90b4d960bf19bdb54d/Database%20diagram.drawio.png">
 </p>
 
 (Database diagram.drawio.png)
